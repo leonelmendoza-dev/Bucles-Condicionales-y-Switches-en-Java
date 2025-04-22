@@ -1,5 +1,7 @@
 Hola! Gracias por leerme.
 
+Esta aplicación te servirá para calcular cuando un número es positivo o negativo, calcular años bisiestos, te dirá que día es según el número que ingreses, un menú que te mostrará un mensaje de bienvenida o te mostrará la fecha actual, también incluye la función de sumar hasta que ingreses un número negativo, mostrar un mensaje hasta que tu decidas ya no verlo, también sumará los digitos que tu ingreses.
+
 Acá tienes las instrucciones para poder correr las aplicaciones
 que están en esta carpeta.
 
